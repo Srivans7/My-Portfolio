@@ -7,7 +7,7 @@ Navigate the world by driving a car, explore projects, certificates, skills, and
 <br><br>
 ## 🔗 Live Portfolio  
 🚀 *Explore the interactive 3D experience here:*  
-👉 *https://your-portfolio-url.com*
+👉 *https://srivans-portfolio.netlify.app/*
 
 <p align="center">
   <img src="portfolio.png" width="800" />
@@ -92,3 +92,4 @@ npm run build<br>
 <br>
 http://localhost:3000<br>
 #
+
